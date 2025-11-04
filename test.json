@@ -1,0 +1,15 @@
+{
+    "first" : -1.01e10,
+    "second" : "string value",
+    "third" : true,
+    "fourth" : false,
+    "fifth" : null,
+    "sixth" : [ 0, 1, 2, 3, 4 ],
+    "seventh" : {
+        "one" : "hey it's me",
+        "two" : [ 10, 11, 12],
+        "three" : {
+            "nested" : "this is the last value"
+        }
+    }
+}
